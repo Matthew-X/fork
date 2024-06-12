@@ -5,7 +5,7 @@ import com.google.common.collect.Sets;
 import com.shazam.fork.model.Device;
 import com.shazam.fork.model.Pool;
 import com.shazam.fork.system.io.FileManager;
-import org.simpleframework.xml.Serializer;
+import com.carrotsearch.thirdparty.Serializer;
 
 import javax.annotation.Nonnull;
 import java.io.File;
